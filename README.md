@@ -27,4 +27,4 @@ A simple personal project built in **C++** to simulate a basic banking system. I
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ykawai1125/BankAccountManagement.git
+   git clone https://github.com/ykawai1125/Bank-Account-Management.git
