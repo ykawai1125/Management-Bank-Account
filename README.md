@@ -13,9 +13,8 @@ A simple personal project built in **C++** to simulate a basic banking system. I
 ## Concepts Applied
 
 - Object-Oriented Programming (OOP)
-  - Classes and Inheritance
+- Classes and Inheritance
 - File I/O for data storage
-- 
 - Dynamic menus and control flow
 
 ## Technologies Used
